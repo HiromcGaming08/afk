@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "Tui_Online_24H",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "Hiromc_Gaming.aternos.me",
+    "port": 23271,
+    "version": "1.16.5"
   },
 
   "position": {
