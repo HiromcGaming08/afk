@@ -7,7 +7,7 @@
 
   "server": {
     "ip": "Hiromc_Gaming.aternos.me",
-    "port": 23271,
+    "port": 25565,
     "version": "1.16.5"
   },
 
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": ""
     },
 
     "anti-afk": {
@@ -43,7 +43,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
-    "auto-recconect-delay": 5000
+    "auto-reconnect": true,
+    "auto-recconect-delay": 1
   }
 }
