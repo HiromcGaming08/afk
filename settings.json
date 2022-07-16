@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Hiromc_Gaming.aternos.me",
-    "port": 25565,
+    "ip": "65.108.201.14",
+    "port": 52405,
     "version": "1.16.5"
   },
 
